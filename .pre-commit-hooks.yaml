@@ -1,0 +1,6 @@
+- id: laravel-pint
+  name: Laravel Pint
+  description: This hook runs Laravel Pint on PHP files.
+  entry: hooks/pint.sh
+  language: script
+  types: [php]
